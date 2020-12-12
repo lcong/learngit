@@ -1,0 +1,14 @@
+D:/workspace/learngit/MMOpenGL/out/build/x86-Debug/CMakeFiles/edit_cache.dir
+D:/workspace/learngit/MMOpenGL/out/build/x86-Debug/CMakeFiles/rebuild_cache.dir
+D:/workspace/learngit/MMOpenGL/out/build/x86-Debug/MMOpenGL/CMakeFiles/edit_cache.dir
+D:/workspace/learngit/MMOpenGL/out/build/x86-Debug/MMOpenGL/CMakeFiles/MMOpenGL.dir
+D:/workspace/learngit/MMOpenGL/out/build/x86-Debug/MMOpenGL/CMakeFiles/rebuild_cache.dir
+D:/workspace/learngit/MMOpenGL/out/build/x86-Debug/MMGLShader/CMakeFiles/rebuild_cache.dir
+D:/workspace/learngit/MMOpenGL/out/build/x86-Debug/MMGLShader/CMakeFiles/MMGLShader.dir
+D:/workspace/learngit/MMOpenGL/out/build/x86-Debug/MMGLShader/CMakeFiles/edit_cache.dir
+D:/workspace/learngit/MMOpenGL/out/build/x86-Debug/MMHelloStatic/CMakeFiles/MMHelloStatic.dir
+D:/workspace/learngit/MMOpenGL/out/build/x86-Debug/MMHelloStatic/CMakeFiles/edit_cache.dir
+D:/workspace/learngit/MMOpenGL/out/build/x86-Debug/MMHelloStatic/CMakeFiles/rebuild_cache.dir
+D:/workspace/learngit/MMOpenGL/out/build/x86-Debug/glad/CMakeFiles/glad.dir
+D:/workspace/learngit/MMOpenGL/out/build/x86-Debug/glad/CMakeFiles/edit_cache.dir
+D:/workspace/learngit/MMOpenGL/out/build/x86-Debug/glad/CMakeFiles/rebuild_cache.dir
