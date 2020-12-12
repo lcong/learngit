@@ -1,0 +1,146 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1,
+						2,
+						3,
+						4
+					],
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.8"
+					},
+					"projectIndex" : 0,
+					"source" : "."
+				},
+				{
+					"build" : "MMOpenGL",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.8"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "MMOpenGL",
+					"targetIndexes" : 
+					[
+						2
+					]
+				},
+				{
+					"build" : "MMGLShader",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.8"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "MMGLShader",
+					"targetIndexes" : 
+					[
+						0
+					]
+				},
+				{
+					"build" : "MMHelloStatic",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.8"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "MMHelloStatic",
+					"targetIndexes" : 
+					[
+						1
+					]
+				},
+				{
+					"build" : "glad",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.8"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "glad",
+					"targetIndexes" : 
+					[
+						3
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4
+					],
+					"name" : "MMOpenGL",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 2,
+					"id" : "MMGLShader::@316c3e8a446eb6f9bf12",
+					"jsonFile" : "target-MMGLShader-Debug-86887a70559e6fc5152f.json",
+					"name" : "MMGLShader",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "MMHelloStatic::@2f886f2efb0202aa2a29",
+					"jsonFile" : "target-MMHelloStatic-Debug-2d65f961cdd64abd0b97.json",
+					"name" : "MMHelloStatic",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "MMOpenGL::@d63e6ec3440fcacf2002",
+					"jsonFile" : "target-MMOpenGL-Debug-ddf910e5cf30c0469b94.json",
+					"name" : "MMOpenGL",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 4,
+					"id" : "glad::@74ca6b3581f0d7366b1f",
+					"jsonFile" : "target-glad-Debug-1a58c280e3065c44d2db.json",
+					"name" : "glad",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/workspace/learngit/MMOpenGL/out/build/x86-Debug",
+		"source" : "D:/workspace/learngit/MMOpenGL"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 0
+	}
+}
